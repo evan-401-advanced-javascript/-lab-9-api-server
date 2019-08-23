@@ -1,7 +1,7 @@
 {
   "name": "api-server-solution",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Proof of Life Server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -29,5 +29,9 @@
     "require-directory": "^2.1.1",
     "supertest": "^4.0.2",
     "uuid": "^3.3.2"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {}
 }
